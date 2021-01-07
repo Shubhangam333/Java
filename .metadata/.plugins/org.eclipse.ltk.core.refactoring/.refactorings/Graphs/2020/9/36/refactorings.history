@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;queue&apos; in &apos;graphimplementation.Graph.dft()&apos; to &apos;stack&apos;&#x0D;&#x0A;- Original project: &apos;Graphs&apos;&#x0D;&#x0A;- Original element: &apos;graphimplementation.Graph.dft().queue&apos;&#x0D;&#x0A;- Renamed element: &apos;queue&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename local variable &apos;queue&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;graphimplementation{Graph.java[Graph~dft@queue!5375!5418!5392!5396!QLinkedList\&lt;QPair;&gt;;!0!false" name="stack" references="true" stamp="1599028595005" version="1.0"/>
+</session>
